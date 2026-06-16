@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.packages/
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/**/build/
+mobile/**/*.g.dart
+mobile/**/*.freezed.dart
+
+# Next.js
+admin-web/.next/
+admin-web/out/
+admin-web/dist/
+
+# Backend (Java/Maven/Gradle)
+backend/target/
+backend/build/
+backend/.gradle/
+
+# IDE
+.idea/
+
+# Env files
+.env
+.env.local
+.env.*.local
+backend/.env
+mobile/.env
+admin-web/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
