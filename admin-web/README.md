@@ -1,4 +1,4 @@
-# Chợ Tươi Thông Admin Web
+# Chợ Truyền Thống Admin Web
 
 Admin Dashboard cho nền tảng marketplace Chợ Tươi Thông.
 
